@@ -33,6 +33,7 @@ Now we need to uncomment the moduleResolution in the tsconfig.json file like
 
 **"moduleResolution": "node",**
 **"outDir": "./dist",**
+**"rootDir": "./src",**    
 
 
 # Initiating our app
